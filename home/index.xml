@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,7 +33,7 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/home/about/</guid>
       <description>Biography I am interested in how the visual system builds useful representations for segmenting and recognizing objects. I use a combination of large ensemble recordings of neural activity, statistical analyses, and modeling towards the goal of understanding the series of transformations that belie visual perception. I am currently a postdoctoral scholar with Doris Tsao at Caltech.
@@ -43,7 +43,7 @@ Previously I was a graduate student with Vikaas Sohal at UCSF, where I investiga
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -52,7 +52,7 @@ Previously I was a graduate student with Vikaas Sohal at UCSF, where I investiga
     <item>
       <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -61,7 +61,7 @@ Previously I was a graduate student with Vikaas Sohal at UCSF, where I investiga
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>
