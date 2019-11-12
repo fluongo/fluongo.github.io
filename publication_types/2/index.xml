@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An Amygdala-Hippocampus Subnetwork that Encodes Variation in Human Mood</title>
+      <title>A fundamental difference between rodent and primate object vision</title>
+      <link>/talk/cosyne2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/cosyne2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Amygdala-Hippocampus subnetwork that encodes variation in human mood</title>
       <link>/publication/kirkby2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -40,7 +49,7 @@
     </item>
     
     <item>
-      <title>Putative Microcircuit-Level Substrates for Attention Are Disrupted in Mouse Models of Autism</title>
+      <title>Putative microcircuit-level substrates for attention are disrupted in mouse models of autism</title>
       <link>/publication/luongo2016b/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
